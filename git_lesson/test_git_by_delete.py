@@ -1,0 +1,1 @@
+print('Изучаю git и github')
